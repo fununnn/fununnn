@@ -1,21 +1,81 @@
-## Shohei Suzuki
+# Shohei Suzuki
 
-  OT/ICS Security Researcher | Former Industrial Plant Operator
+**OT/ICS Security Researcher | Former Industrial Plant Operator**
 
-  ### Background
-  - 7 years as Pollution Prevention Manager — waste processing facility & thermal power plant
-  - 3 years in local government IT: network, security policy, vulnerability management, cloud
-  - Hands-on experience with real industrial control systems
+Research focus: **Cyber-physical risk and safety in Industrial Control Systems (ICS).**
 
-  ### Research
-  **CPSS: Cyber-Physical Severity Scale**
-  A logarithmic severity scale for cyberattacks against Industrial Control Systems.
-  📄 [Paper (Zenodo)](https://doi.org/10.5281/zenodo.19002384) | [Repository](https://github.com/fununnn/cpss)
+Industrial cybersecurity researcher with a background spanning **industrial operations, environmental safety, and cybersecurity engineering**.  
+Experienced with real-world industrial facilities and interested in understanding how **cyberattacks propagate into physical, environmental, and societal consequences** in cyber-physical systems.
 
-  ### Certifications (in progress)
-  - GICSP — Global Industrial Cyber Security Professional
-  - 情報安全確保支援士 (Registered Information Security Specialist)
+---
 
-  ### Projects
-  - [cpss](https://github.com/fununnn/cpss) — ICS incident severity framework & dataset
-  - novellm — AI-powered novel generation
+## Background
+
+- **7 years as a Pollution Prevention Manager**  
+  Waste processing facilities & thermal power plants  
+  Responsible for environmental compliance, emissions monitoring, and industrial process safety.
+
+- **3 years in local government IT**  
+  Network infrastructure, security policy, vulnerability management, and cloud systems.
+
+- **Hands-on operational experience with real Industrial Control Systems (ICS)**
+
+---
+
+## Research
+
+### CPSS — Cyber-Physical Severity Scale
+
+A **logarithmic severity scale** designed to evaluate the **physical, environmental, and societal impact** of cyberattacks against Industrial Control Systems.
+
+The goal of CPSS is to provide a **standardized framework for comparing cyber-physical incidents**, similar to how disaster scales quantify the magnitude of physical events.
+
+📄 Paper  
+https://doi.org/10.5281/zenodo.19002384
+
+💻 Repository  
+https://github.com/fununnn/cpss
+
+---
+
+## Publications
+
+- **CPSS: Cyber-Physical Severity Scale for ICS Cyber Incidents**  
+  Zenodo Preprint  
+  https://doi.org/10.5281/zenodo.19002384
+
+---
+
+## Projects
+
+### cpss
+ICS incident severity framework and incident dataset.
+
+https://github.com/fununnn/cpss
+
+### novellm
+AI-powered novel generation system.
+
+---
+
+## Certifications (in progress)
+
+- **GICSP — Global Industrial Cyber Security Professional**
+- **Registered Information Security Specialist (Japan)**
+
+---
+
+## Research Interests
+
+- Industrial Control System Security  
+- Cyber-Physical Risk Assessment  
+- Critical Infrastructure Security  
+- Safety & Security Integration  
+- Industrial Incident Analysis  
+- Cyber-Physical Disaster Modeling  
+
+---
+
+## Contact
+
+GitHub Issues or Discussions are welcome.
