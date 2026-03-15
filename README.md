@@ -31,7 +31,7 @@ A **logarithmic severity scale** designed to evaluate the **physical, environmen
 The goal of CPSS is to provide a **standardized framework for comparing cyber-physical incidents**, similar to how disaster scales quantify the magnitude of physical events.
 
 📄 Paper  
-https://doi.org/10.5281/zenodo.19002384
+https://doi.org/10.5281/zenodo.19026588
 
 💻 Repository  
 https://github.com/fununnn/cpss
@@ -42,7 +42,7 @@ https://github.com/fununnn/cpss
 
 - **CPSS: Cyber-Physical Severity Scale for ICS Cyber Incidents**  
   Zenodo Preprint  
-  https://doi.org/10.5281/zenodo.19002384
+  https://doi.org/10.5281/zenodo.19026588
 
 ---
 
